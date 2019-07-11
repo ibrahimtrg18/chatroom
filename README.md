@@ -32,5 +32,5 @@ By :
 161112693 - Anggiat Sintong Sahat Pasaribu,
 161113168 - Jonatan Prima Hutabarat.
 
-Student At STMIK Mikroskil.
+Student At STMIK Mikroskil -
 Thanks
