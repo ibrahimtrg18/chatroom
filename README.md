@@ -16,7 +16,7 @@ npm install
 
 # after that, start the server and client.
 
-# for client/
+# for client:
 cd client/
 
 npm start
