@@ -5,8 +5,8 @@ chatroom with React, NodeJS, MongoDB, Socket-IO
 cd chatroom
 
 # for Client:
-cd client/
-npm install
+cd client/\n
+npm install\n
 
 # for Server:
 cd server/
