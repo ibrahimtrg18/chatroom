@@ -4,12 +4,12 @@ chatroom with React, NodeJS, MongoDB, Socket-IO
 # first, you need to install all the node_modules:
 cd chatroom
 
-# for Client:
+# for client:
 cd client/
 
 npm install
 
-# for Server:
+# for server:
 cd server/
 
 npm install
@@ -21,7 +21,7 @@ cd client/
 
 npm start
 
-# for Server:
+# for server:
 cd server/
 
 node index.js
